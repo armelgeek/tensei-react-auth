@@ -17,7 +17,7 @@
     "build": "tsc -p tsconfig.build.json"
   },
   "dependencies": {
-    "@tensei/sdk": "git+https://github.com/armelgeek/tensei-sdk.git#0d783a16f2e39b54bc52d2753dfbadcac3de45d5",
+    "@tensei/sdk": "git+https://github.com/armelgeek/tensei-sdk.git#9feaad9b7350513a85bf1f4c5a290d6bbe27b145",
     "@testing-library/jest-dom": "^5.16.5",
     "react": "^18.2.0"
   },
